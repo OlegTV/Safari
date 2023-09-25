@@ -1,1 +1,1 @@
-# Safari
+https://olegtv.github.io/Safari/
